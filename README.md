@@ -29,3 +29,7 @@ The detailed data dictionary is mentioned here:
 - click_time: timestamp of click (UTC)
 - attributed_time: if user download the app for after clicking an ad, this is the time of the app download
 - is_attributed: the target that is to be predicted, indicating the app was downloaded
+
+### Files:
+- 'train_sample.csv' file contains the data used for analysis
+- 'Boosting+-+TalkingData+Click+Fraud+.ipynb' file contains the code for analysis
